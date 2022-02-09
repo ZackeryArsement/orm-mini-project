@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "find-config": "^1.0.0",
     "mysql2": "^2.2.1",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.16.0"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
